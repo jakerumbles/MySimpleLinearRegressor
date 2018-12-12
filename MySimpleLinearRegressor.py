@@ -17,7 +17,7 @@ class MySimpleLinearRegressor():
            and the regression line.
            
         Variables:
-            observations - This is the csc file passed to the constructer.  It should contain
+            observations - This is the csv file passed to the constructer.  It should contain
             only two rows, x and y.
             
             df - This is a pandas DataFrame for holding other information needed in the calculations.
